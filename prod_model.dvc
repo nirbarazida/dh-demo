@@ -1,0 +1,5 @@
+outs:
+- md5: 6fc4d52cd62fbca5c37b0a3a5dbfbbba.dir
+  size: 99815927
+  nfiles: 4
+  path: prod_model
